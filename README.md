@@ -28,10 +28,7 @@ Plateforme de retours collaborateurs et d'amélioration du cadre de travail, con
 4. Lancer l'API et l'interface : `npm run dev`.
 5. Ouvrir l'adresse Vite affichée dans le terminal (par défaut `http://localhost:5173`).
 
-Comptes de démonstration, après l'étape de seed :
 
-- RH : `rh@atlas.example` / `WellMind2026!`
-- Collaborateur : `lea@atlas.example` / `WellMind2026!`
 
 L'API est disponible sur `http://localhost:4000/api`. `VITE_API_URL` permet de modifier cette adresse. Sans `GEMINI_API_KEY`, l'analyse IA retourne une erreur explicite ; les sondages, les statistiques et les actions restent disponibles.
 
