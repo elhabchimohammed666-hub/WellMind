@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # WellMind
 
 Plateforme de retours collaborateurs et d'amélioration du cadre de travail, construite avec MongoDB, Express, React et Node.js. WellMind collecte des retours structurés, protège les réponses anonymes, calcule des statistiques vérifiables et aide les équipes RH à transformer les constats en actions.
